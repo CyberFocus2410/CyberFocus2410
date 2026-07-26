@@ -19,25 +19,26 @@
 
 ---
 
-## 🛡️ whoami
+## 🛡️ Who Am I
 
 ```yaml
-name:        Vivan Mittal
-role:        Aspiring Blue Team Analyst | SOC / DFIR enthusiast
-degree:      B.Tech CSE, Delhi Technical Campus (IPU) — 2nd Year, 2025-2029
-based_in:    Ghaziabad, Uttar Pradesh, India
-experience:  Intern @ Decode Labs — building cybersecurity-focused projects
-core_focus:
-  - Blue Team Ops   → Log analysis, threat detection, incident response
+Name:        Vivan Mittal
+Role:        Aspiring Blue Team Analyst | SOC / DFIR enthusiast
+Degree:      B.Tech CSE, Delhi Technical Campus (IPU) — 2nd Year, 2025-2029
+Based_in:    Ghaziabad, Uttar Pradesh, India
+Experience:  Intern @ Decode Labs — building cybersecurity-focused projects
+Core Focus:-
+  - Blue Team Ops    → Log analysis, threat detection, incident response
   - Web App Security → Building + breaking full-stack applications
   - Applied ML       → Training & fine-tuning models for security + health use-cases
-currently:
-  - Interning at Decode Labs, shipping new security-first builds
+Currently:
+  - Internship at Decode Labs, shipping new security-first builds
   - On a hackathon streak — 15+ hackathons & tech events attended so far
   - Solving CTFs and lab challenges on TryHackMe
   - Learning something new in security/dev every single day
-mindset:      "Understand the attack to build the defense."
-open_to:      Cybersecurity Internships (Blue Team / SOC / AppSec)
+
+Mindset:  "Understand the attack to build the defense."
+Open To:   Cybersecurity Internships (Blue Team / SOC / AppSec)
 ```
 
 ---
@@ -48,28 +49,11 @@ open_to:      Cybersecurity Internships (Blue Team / SOC / AppSec)
 
 | Status | Track | Detail |
 |:---:|---|---|
-| 🟢 Active | **Internship @ Decode Labs** | Shipping new cybersecurity-focused projects |
-| 🔴 In Progress | **ISC2 Certified in Cybersecurity (CC)** | Free, industry-recognized foundational cert |
-| 🟡 Active | **TryHackMe — Jr. Penetration Tester Path** | Hands-on labs, log & network analysis |
-| 🔵 Planned | **Network Packet Analyser** (Python + Scapy) | Blue-team focused traffic inspection tool |
-| 🟣 Ongoing | **Hackathon Season** | 15+ hackathons attended · more lined up every month |
-
-</div>
-
----
-
-## 📌 Most Relevant Repos
-
-<div align="center">
-
-<a href="https://github.com/CyberFocus2410/Krypta_Encryptor_Decryptor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberFocus2410&repo=Krypta_Encryptor_Decryptor&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/CyberFocus2410/Password_Strength_Analyser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberFocus2410&repo=Password_Strength_Analyser&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/CyberFocus2410/LaunchLens"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberFocus2410&repo=LaunchLens&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/CyberFocus2410/PhishLeakGuard_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberFocus2410&repo=PhishLeakGuard_1&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/CyberFocus2410/ToxiGuard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberFocus2410&repo=ToxiGuard&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/CyberFocus2410/Health_Vault4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberFocus2410&repo=Health_Vault4&theme=tokyonight&hide_border=true"/></a>
-
-<sub>These auto-sync live from GitHub. Swap any of these anytime by pinning a different repo from your <a href="https://github.com/CyberFocus2410?tab=repositories">repositories tab</a> (Profile → Customize your pins).</sub>
+| 🟢 Active      | **Internship @ Decode Labs**                   | Shipping new cybersecurity-focused projects |
+| 🔴 In Progress | **ISC2 Certified in Cybersecurity (CC)**       | Free, industry-recognized foundational cert |
+| 🟡 Active      | **TryHackMe — Jr. Penetration Tester Path**    | Hands-on labs, log & network analysis       |
+| 🔵 Planned     | **Network Packet Analyser** (Python + Scapy)   | Blue-team focused traffic inspection tool   |
+| 🟣 Ongoing     | **Hackathon Season** | 15+ hackathons attended | more lined up every month                   |
 
 </div>
 
@@ -90,7 +74,7 @@ open_to:      Cybersecurity Internships (Blue Team / SOC / AppSec)
 
 `Python`
 
-[Repo](https://github.com/CyberFocus2410/Password_Strength_Analyser)
+[🔗 Live Demo](https://shield-io.up.railway.app/) . [Repo](https://github.com/CyberFocus2410/Password_Strength_Analyser)
 
 </td>
 <td width="50%" valign="top">
@@ -104,7 +88,7 @@ open_to:      Cybersecurity Internships (Blue Team / SOC / AppSec)
 
 `Python` `CSS`
 
-[Repo](https://github.com/CyberFocus2410/Krypta_Encryptor_Decryptor)
+[🔗 Live Demo](krypta.up.railway.app) . [Repo](https://github.com/CyberFocus2410/Krypta_Encryptor_Decryptor)
 
 </td>
 </tr>
@@ -309,12 +293,12 @@ A few of the ones that matter most:
 <td width="50%" valign="top">
 
 **✅ Highlights — Participated**
-- 🏛️ **Smart India Hackathon 2025** — government-scale project, national level
-- 🎓 **Tryst 2026, IIT Delhi** — flagship tech fest hackathon
-- 🏗️ **HackCraft 3.0** — National Level Hackathon
-- 🗺️ **Google Lakecity Hackathon** — ₹1,00,000 prize track
-- ✨ **Gemini 3 Hackathon** (Devpost) — global platform, Google Gemini
-- 🚀 **Techsprint — GDGoC**, Delhi Technical Campus
+- 🏛️ **Smart India Hackathon 2025**  — Government-scale project, national level
+- 🎓 **Vihaan 9.O, DTU Delhi**       — Flagship tech  hackathon
+- 🏗️ **HackCraft 3.0**               — National Level Hackathon
+- 🗺️ **Google Lakecity Hackathon**   — National Level Hackathon
+- ✨ **Gemini 3 Hackathon** (Devpost)— Global platform, Google Gemini
+- 🚀 **Techsprint                    — GDGoC**, Delhi Technical Campus
 
 </td>
 <td width="50%" valign="top">
